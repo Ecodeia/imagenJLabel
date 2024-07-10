@@ -9,6 +9,7 @@ public class Principal {
 		hiloSaludo.start();
 		
 		//Ejemplo 2. Creando un objeto Thread e implementando Runnable
+		//gITHUB
 		Thread hilo1= new Thread(new Runnable() {
 			
 			@Override
